@@ -25,7 +25,7 @@
 
 ## Description
 
-Nest.js microservice application (publisher and subscriber) using TCP as transport. Built
+Nest.js microservice application (subscriber) using TCP as transport. Built
 with [Nest](https://github.com/nestjs/nest).
 
 ## Installation
